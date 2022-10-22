@@ -16,17 +16,23 @@
   <h1>Ce que j'utilise</h1>
 </div>
 <div id="header" align="center">
+  <h2>Logiciels</h2>
   <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git,github" alt=""/>
 </div>
 <div id="header" align="center">
+  <h2>Langages</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,lua,cs,rust,java" alt=""/>
 </div>
 <div id="header" align="center">
+  <h2>Technologies</h2>
   <img src="https://skillicons.dev/icons?i=vue,tailwind,mongodb,postgres,redis" alt=""/>
 </div>
 
 ---
 
+<div id="header" align="center">
+  <h1>Mes statistiques</h1>
+</div>
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GauthierJoly&show_icons=true&theme=radical" alt="" />
 </div>
