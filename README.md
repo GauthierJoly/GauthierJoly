@@ -13,25 +13,29 @@
 ---
 
 <div id="header" align="center">
-  <h1>Ce que j'utilise</h1>
+  <h2>Ce que j'utilise</h2>
 </div>
 <div id="header" align="center">
-  <h2>Logiciels</h2>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,git,github" alt=""/>
+  <h3>Outils</h3>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,docker,linux,nginx,selenium,github" alt=""/>
 </div>
 <div id="header" align="center">
-  <h2>Langages</h2>
+  <h3>Langages</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,lua,cs,rust,java" alt=""/>
 </div>
 <div id="header" align="center">
-  <h2>Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,mongodb,postgres,redis" alt=""/>
+  <h3>Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=dotnet,mongodb,postgres,redis,regex,git" alt=""/>
+</div>
+<div id="header" align="center">
+  <h3>Framework</h3>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind" alt=""/>
 </div>
 
 ---
 
 <div id="header" align="center">
-  <h1>Mes statistiques</h1>
+  <h2>Mes statistiques</h2>
 </div>
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GauthierJoly&show_icons=true&theme=radical" alt="" />
