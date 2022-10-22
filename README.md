@@ -17,7 +17,7 @@
 </div>
 <div id="header" align="center">
   <h3>Outils</h3>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,docker,linux,nginx,selenium,github" alt=""/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,docker,linux,nginx,selenium,figma,github" alt=""/>
 </div>
 <div id="header" align="center">
   <h3>Langages</h3>
